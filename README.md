@@ -27,3 +27,7 @@ The Smart Link Shortener is a web application that allows users to shorten long 
 ## Acknowledgements
 
 This project utilizes the Smart Shorten API for URL shortening. The design and layout are inspired by modern web design trends.
+
+## Demos
+
+Click [here](https://pshema.github.io/link-shortener/) for the live application
