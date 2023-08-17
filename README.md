@@ -31,3 +31,5 @@ This project utilizes the Smart Shorten API for URL shortening. The design and l
 ## Demos
 
 Click [here](https://pshema.github.io/link-shortener/) for the live application
+
+click [here](https://drive.google.com/file/d/1etbaH9MLSJG08KqiwSyhjBnD3nOYL_5W/view?usp=sharing) for demo video
